@@ -12,4 +12,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[dmitry DOT strebkov AT gmail DOT com](mailto:dmitry DOT strebkov AT gmail DOT com)
+[dmitry DOT strebkov AT gmail DOT <last 3 letters in "telecom">](mailto:dmitry DOT strebkov AT gmail DOT <last 3 letters in "telecom">)
